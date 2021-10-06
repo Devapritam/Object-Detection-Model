@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url(background-home.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading {
+    width: 90%;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    border: none;
+    box-shadow: 0 0 20px 0 rgba(0 0 0 / 60%);
+    transition: all 0.3s;
+}
+
+.heading:hover {
+    transform: translateY(-5px);
+    background-color: #00d6e6;
+}
+
+.bedroom {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 10%;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border: none;
+    transition: all 0.5s;
+}
+
+.bedroom:hover {
+    transform: translateY(-5px);
+    background-color: rgb(6, 235, 56);
+}
+
+.tv_and_ac {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 10%;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border: none;
+    transition: all 0.5s;
+}
+
+.tv_and_ac:hover {
+    transform: translateY(-5px);
+    background-color: rgb(6, 235, 56);
+}
+
+.desk {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 10%;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border: none;
+    transition: all 0.5s;
+}
+
+.desk:hover {
+    transform: translateY(-5px);
+    background-color: rgb(6, 235, 56);
+}
+
+.bottles {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 10%;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border: none;
+    transition: all 0.5s;
+}
+
+.bottles:hover {
+    transform: translateY(-5px);
+    background-color: rgb(6, 235, 56);
+}
+
+.fruit_basket {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 10%;
+    margin-top: 20px;
+    padding: 8px 10px;
+    border: none;
+    transition: all 0.5s;
+}
+
+.fruit_basket:hover {
+    transform: translateY(-5px);
+    background-color: rgb(6, 235, 56);
+}
